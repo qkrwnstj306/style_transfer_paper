@@ -1,0 +1,95 @@
+
+date : 2023-06-10 13:40:59.415093
+model : in_img_face_with_background_3000	style : mid-journey	score : 25.537155127502615
+# of image : 9372
+date : 2023-06-10 13:59:59.412265
+model : in_img_face_with_background_3000	style : anime	score : 33.13987262596504
+# of image : 9372
+date : 2023-06-10 14:16:38.871704
+model : in_img_face_with_background_3000	style : realistic	score : 24.656154157258243
+# of image : 9372
+date : 2023-06-12 10:10:21.939105
+model : in_img_face_with_background_2000	style : mid-journey	score : 16.258608498870387
+# of image : 9372
+date : 2023-06-12 10:17:15.735854
+model : in_img_face_with_background_2000	style : anime	score : 25.802405361300316
+# of image : 9384
+date : 2023-06-12 10:23:08.184074
+model : in_img_face_with_background_2000	style : realistic	score : 22.646751883345303
+# of image : 9372
+
+date : 2023-06-12 13:58:12.355969
+model : re_img_0_2000	style : mid-journey	score : 22.676603853500808
+# of image : 9372
+date : 2023-06-12 14:04:33.835426
+model : re_img_0_3000	style : mid-journey	score : 28.87257060946365
+# of image : 9372
+date : 2023-06-12 14:10:53.925136
+model : re_img_0_4000	style : mid-journey	score : 36.16096266020054
+# of image : 9372
+date : 2023-06-12 14:21:58.537646
+model : re_img_0_2000	style : anime	score : 33.67670853623167
+# of image : 9372
+date : 2023-06-12 14:33:28.589307
+model : re_img_0_3000	style : anime	score : 35.003978757248035
+# of image : 9372
+date : 2023-06-12 14:44:38.111484
+model : re_img_0_4000	style : anime	score : 39.23481437836011
+# of image : 9372
+date : 2023-06-12 14:54:41.010964
+model : re_img_0_2000	style : realistic	score : 19.989867850161488
+# of image : 9372
+date : 2023-06-12 15:05:11.367856
+model : re_img_0_3000	style : realistic	score : 25.372064463090794
+# of image : 9372
+date : 2023-06-12 15:15:26.508513anime 
+model : re_img_0_4000	style : realistic	score : 31.28290959461475
+# of image : 9372
+date : 2023-06-13 10:28:12.561349
+model : re_img_0_1000	style : mid-journey	score : 17.499499966564315
+# of image : 9372
+date : 2023-06-13 10:56:05.655062
+model : re_img_0_1000	style : anime	score : 22.22745859478124
+# of image : 9372
+date : 2023-06-13 11:18:58.668514
+model : re_img_0_1000	style : realistic	score : 17.864180712267057
+# of image : 9372
+date : 2023-06-14 17:38:49.258565
+model : in_img_face_with_background_1000	style : mid-journey	score : 15.924877365166083
+# of image : 9222
+date : 2023-06-14 17:46:02.316998
+model : in_img_face_with_background_1000	style : anime	score : 21.00641798343662
+# of image : 9372
+date : 2023-06-14 17:52:37.360688
+model : in_img_face_with_background_1000	style : realistic	score : 15.806626970380648
+# of image : 10812
+date : 2023-06-16 02:36:36.050012
+model : in_img_face_with_background_500	style : mid-journey	score : 15.565802521865805
+# of image : 9372
+date : 2023-06-16 02:43:48.291775
+model : in_img_face_with_background_500	style : anime	score : 29.954834291544103
+# of image : 9372
+date : 2023-06-16 02:51:51.692325
+model : in_img_face_with_background_500	style : realistic	score : 13.538495087784327
+# of image : 9372
+date : 2023-06-19 15:27:38.730300
+model : in_img_face_with_background_750	style : mid-journey	score : 14.029195342300227
+# of image : 9372
+date : 2023-06-23 13:15:58.135124
+model : in_img_face_with_background_750	style : mid-journey	score : 14.029195342300227
+# of image : 9372
+date : 2023-06-23 13:35:38.615038
+model : in_img_face_with_background_750	style : anime	score : 27.88506878010753
+# of image : 9372
+date : 2023-06-23 13:51:49.197451
+model : in_img_face_with_background_750	style : realistic	score : 14.043757022139289
+# of image : 9372
+date : 2023-06-24 01:00:52.635522
+model : re_img_0_750	style : mid-journey	score : 15.449036096162786
+# of image : 9372
+date : 2023-06-24 01:07:48.394635
+model : re_img_0_750	style : anime	score : 32.70074922519768
+# of image : 9372
+date : 2023-06-24 01:13:41.974263
+model : re_img_0_750	style : realistic	score : 16.02800667144197
+# of image : 9372

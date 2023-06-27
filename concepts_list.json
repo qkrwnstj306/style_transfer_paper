@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "a photo of zwx style",
+        "class_prompt": "a photo of style",
+        "instance_data_dir": "./instance_img/mid-journey",
+        "class_data_dir": "./class_img/mid-journey"
+    }
+]
